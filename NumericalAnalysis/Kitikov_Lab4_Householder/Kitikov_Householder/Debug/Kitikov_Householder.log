@@ -1,0 +1,10 @@
+﻿  Householder.cpp
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(180): warning C4018: '<': signed/unsigned mismatch
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(214): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(226): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab4_householder\kitikov_householder\householder.cpp(279): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Kitikov_Householder.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab4_Householder\Debug\Kitikov_Householder.exe
+  Kitikov_Householder.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab4_Householder\Debug\Kitikov_Householder.pdb (Partial PDB)

@@ -1,0 +1,8 @@
+﻿  Iteration.cpp
+d:\documents\education\bsu\вма\labs\kitikov_lab5_iteration\kitikov_iteration\iteration.cpp(7): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab5_iteration\kitikov_iteration\iteration.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab5_iteration\kitikov_iteration\iteration.cpp(146): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\documents\education\bsu\вма\labs\kitikov_lab5_iteration\kitikov_iteration\iteration.cpp(166): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab5_iteration\kitikov_iteration\iteration.cpp(177): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Kitikov_Iteration.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab5_Iteration\Debug\Kitikov_Iteration.exe
+  Kitikov_Iteration.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab5_Iteration\Debug\Kitikov_Iteration.pdb (Partial PDB)

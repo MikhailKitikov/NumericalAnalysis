@@ -1,0 +1,14 @@
+﻿  Sweep.cpp
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(9): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(11): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(15): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(47): warning C4018: '<': signed/unsigned mismatch
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(65): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab3_sweep\kitikov_sweep\sweep.cpp(79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Kitikov_Sweep.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab3_Sweep\Debug\Kitikov_Sweep.exe
+  Kitikov_Sweep.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab3_Sweep\Debug\Kitikov_Sweep.pdb (Partial PDB)

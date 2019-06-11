@@ -1,0 +1,10 @@
+﻿  Decomposition.cpp
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(6): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(10): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(29): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(57): warning C4018: '<': signed/unsigned mismatch
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(95): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(107): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+d:\documents\education\bsu\вма\labs\kitikov_lab2_ldlt\kitikov_ldlt\decomposition.cpp(179): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Kitikov_LDLt.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab2_LDLt\Debug\Kitikov_LDLt.exe
+  Kitikov_LDLt.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab2_LDLt\Debug\Kitikov_LDLt.pdb (Partial PDB)

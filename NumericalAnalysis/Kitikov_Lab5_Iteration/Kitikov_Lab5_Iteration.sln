@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Kitikov_Iteration", "Kitikov_Iteration\Kitikov_Iteration.vcxproj", "{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Debug|x64.ActiveCfg = Debug|x64
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Debug|x64.Build.0 = Debug|x64
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Debug|x86.ActiveCfg = Debug|Win32
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Debug|x86.Build.0 = Debug|Win32
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Release|x64.ActiveCfg = Release|x64
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Release|x64.Build.0 = Release|x64
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Release|x86.ActiveCfg = Release|Win32
+		{951A1315-A6EB-4D53-AB34-0D7B8B74ED1F}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {925AF1C1-4DDB-4962-BF68-543AE61F7939}
+	EndGlobalSection
+EndGlobal
