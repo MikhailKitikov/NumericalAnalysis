@@ -1,7 +1,0 @@
-﻿  Danilevski.cpp
-d:\documents\education\bsu\вма\labs\kitikov_lab6_danilevski\kitikov_danilevski\danilevski.cpp(9): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-d:\documents\education\bsu\вма\labs\kitikov_lab6_danilevski\kitikov_danilevski\danilevski.cpp(13): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
-d:\documents\education\bsu\вма\labs\kitikov_lab6_danilevski\kitikov_danilevski\danilevski.cpp(39): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
-d:\documents\education\bsu\вма\labs\kitikov_lab6_danilevski\kitikov_danilevski\danilevski.cpp(87): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
-  Kitikov_Danilevski.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab6_Danilevski\Debug\Kitikov_Danilevski.exe
-  Kitikov_Danilevski.vcxproj -> D:\Documents\Education\BSU\ВМА\Labs\Kitikov_Lab6_Danilevski\Debug\Kitikov_Danilevski.pdb (Partial PDB)
